@@ -1,0 +1,20 @@
+  <lib dir="plugins/" regex=".*\.jar" />
+  <lib dir="plugins_dice/" regex=".*\.jar" />
+
+  <!-- Query Parsers
+
+       https://lucene.apache.org/solr/guide/query-syntax-and-parsing.html
+
+       Multiple QParserPlugins can be registered by name, and then
+       used in either the "defType" param for the QueryComponent (used
+       by SearchHandler) or in LocalParams
+    -->
+  <!-- example of registering a query parser -->
+  <!--
+     <queryParser name="myparser" class="com.mycompany.MyQParserPlugin"/>
+    -->
+
+  <!-- Extension of edismax to include payload values in the relevancy score calculation -->
+  <!-- Also requires custom similarity class implementation to take advantage of this (e.g. dice's PayloadAwareDefaultSimilarity) -->
+  <queryParser name="payloadEdismax" class="org.dice.solrenhancements.queryparsers.PayloadAwareExtendedDismaxQParserPlugin"/>
+
