@@ -13,3 +13,6 @@ Dice.com code for implementing the ideas discussed in the [Vectors in Search](ht
 ## Implementation Details
 - Solr Version - 7.5
 - Python Version - 3.x+ (3.5 used)
+
+## Tutorial
+I will add a notebook shortly that outlines how to use this code to load and search vectors efficiently within solr.
