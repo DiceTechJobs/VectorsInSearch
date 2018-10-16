@@ -2,7 +2,7 @@
 
 Due to licensing, I cannot copy the entire solr config and schema xml here. So instead I have just included the snippets needed to enable the solr plugins:
 
-1. **solrcongix.xml**
+1. **solrconfig.xml**
  - Add the payloadEdismax parser to the solrconfig.xml.
  - Configure the solrconfig.xml to load the plugins jar file
 2. **schema.xml**
