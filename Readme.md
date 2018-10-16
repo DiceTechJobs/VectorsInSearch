@@ -1,6 +1,6 @@
 # Vectors in Search
 
-Dice.com code for implementing the ideas discussed in the [Vectors in Search](https://sched.co/FkM3) talk from the Activate 2018 conference.
+Dice.com code for implementing the ideas discussed in the [Vectors in Search](https://sched.co/FkM3) talk from the Activate 2018 conference, by Simon Hughes ( Chief Data Scientist, Dice.com )
 
 ## Directory Structure
 - **python**
