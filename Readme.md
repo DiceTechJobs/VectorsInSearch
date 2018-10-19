@@ -4,7 +4,7 @@ Dice.com code for implementing the ideas discussed in the [Vectors in Search](ht
 
 ## Directory Structure
 - **python**
-  - Code for implementing the k-means tree and vector thresholding algorithms, and indexing and searching vectors in solr using these techniques.
+  - Code for implementing the k-means tree, LSH sim hash and vector thresholding algorithms, and indexing and searching vectors in solr using these techniques.
 - **solr_plugins**
   - Java code for implementing the custom similarity classes and payloadEdismax parser described in the talk.
 - **solr_configs**
