@@ -18,5 +18,6 @@ Dice.com code for implementing the ideas discussed in the [Vectors in Search](ht
 I will add a notebook shortly that outlines how to use this code to load and search vectors efficiently within solr.
 
 ## Links
-* [Slides from the talk](https://www.slideshare.net/SimonHughes13/vectors-in-search-towards-more-semantic-matching)
+* [Slides from the talk](https://www.slideshare.net/lucidworks/vectors-in-search-towards-more-semantic-matching-simon-hughes-dicecom)
+* [Video of the Talk](https://www.youtube.com/watch?v=9j1Lp0QpGi8)
 
