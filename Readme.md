@@ -19,5 +19,5 @@ I will add a notebook shortly that outlines how to use this code to load and sea
 
 ## Links
 * [Slides from the talk](https://www.slideshare.net/lucidworks/vectors-in-search-towards-more-semantic-matching-simon-hughes-dicecom)
-* [Video of the Talk](https://www.youtube.com/watch?v=9j1Lp0QpGi8)
+* [Video of the Talk](https://www.youtube.com/watch?v=rSDqhGn_8Zo&list=PLU6n9Voqu_1HW8-VavVMa9lP8-oF8Oh5t&index=20&t=0s)
 
