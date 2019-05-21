@@ -32,13 +32,13 @@ There has also been a recent update to Lucene core that is applicable here and i
 - Solr Version - 7.5
 - Python Version - 3.x+ (3.5 used)
 
-## Links
+## Links to Talks
 
-* **Activate 2018: 'Vectors in Search'**
+* **Activate 2018:** 'Vectors in Search'
   * [Slides](https://www.slideshare.net/lucidworks/vectors-in-search-towards-more-semantic-matching-simon-hughes-dicecom?qid=4c9af9c0-0554-4251-bd47-9345ff508569&v=&b=&from_search=2)
   * [Video](https://www.youtube.com/watch?v=rSDqhGn_8Zo&list=PLU6n9Voqu_1HW8-VavVMa9lP8-oF8Oh5t&index=21&t=56s)
 
-* **Haystack 2019: 'Searching with Vectors'**
+* **Haystack 2019:** 'Searching with Vectors'
   * [Slides](https://www.slideshare.net/o19s/haystack-2019-search-with-vectors-simon-hughes)
   * [Video](https://www.youtube.com/watch?v=hycH6Rn4RaU&list=PLCoJWKqBHERu9Fe0W12D7XKwGT2eoJJNU&index=19)
 
