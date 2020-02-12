@@ -27,7 +27,7 @@
         <dependency>
             <groupId>org.apache.solr</groupId>
             <artifactId>solr-core</artifactId>
-            <version>7.5.0</version>
+            <version>8.4.0</version>
         </dependency>
 
         <dependency>
